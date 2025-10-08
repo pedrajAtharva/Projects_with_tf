@@ -1,6 +1,7 @@
-### This repository contains a collection of Deep Learning and Natural Language Processing projects, including text classification, computer vision.
+## This repository contains a collection of Deep Learning and Natural Language Processing projects, including text classification, computer vision.
 All projects are implemented in **Python with TensorFlow/Keras**
-**1. Twitter Classification Project**
+
+#### **1. Twitter Classification Project**
 
 Notebook: Twitter Classification project.ipynb
 
@@ -16,7 +17,7 @@ Tech Stack:
 
 Goal: Predict whether a tweet is related to a real disaster.
 
-**2. Food Vision Project**
+#### **2. Food Vision Project**
 
 Notebook: Project_Food_Vision project.ipynb
 
@@ -33,7 +34,7 @@ Tech Stack:
 
 Goal: Build a robust food image classifier.
 
-**3. SkimLit — NLP for Medical Abstracts**
+#### **3. SkimLit — NLP for Medical Abstracts**
 
 Notebook: Skimlit_NLP_milestone_project_2.ipynb
 
