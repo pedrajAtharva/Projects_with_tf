@@ -50,3 +50,6 @@ Tech Stack:
 * NLP preprocessing
 
 Goal: Speed up the process of reviewing scientific papers.
+
+
+Learning git to get a job.
