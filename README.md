@@ -53,3 +53,4 @@ Goal: Speed up the process of reviewing scientific papers.
 
 
 Learning git to get a job.
+Learning projects to get a job
